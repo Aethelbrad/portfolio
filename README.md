@@ -2,7 +2,7 @@
 
 My personal portfolio showcasing projects and skills as a Data Center Technician and Python Developer.
 
-🔗 **[View Live Site](https://yourportfolio.com)**
+
 
 ## Built With
 - HTML5, CSS3, JavaScript
